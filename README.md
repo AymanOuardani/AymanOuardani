@@ -41,7 +41,7 @@ I work at the intersection of **signal processing, deep learning, and brain-comp
 
 ## 🎓 Background
 
-École Centrale de Nantes (2024–2027) — DATASIM specialization
+École Centrale de Nantes (2024–2027).
 Previously: CPGE TSI, Lycée Mohammed Réda Slaoui, Agadir — ranked 18th/605 at Concours Centrale-Supélec
 
 ## 🌍 Find me
