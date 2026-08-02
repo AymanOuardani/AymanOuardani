@@ -1,6 +1,6 @@
 # Hey, I'm Ayman 👋
 
-Engineering student on the **DATASIM track** (Data, Analysis, Processing & Applications in Signal and Image) at École Centrale de Nantes — currently on a gap-year research internship.
+Engineering student at Centrale Nantes — currently on a gap-year research internship.
 
 I work at the intersection of **signal processing, deep learning, and brain-computer interfaces** — decoding EEG signals into motor intent, and applying deep architectures to medical imaging.
 
