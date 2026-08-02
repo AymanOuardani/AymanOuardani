@@ -16,11 +16,11 @@ I work at the intersection of **signal processing, deep learning, and brain-comp
 
 ## 🔬 Signal Processing & BCI
 
-`EEG` · `ICA / Artifact Removal (EOG, EMG)` · `ERD/ERS Topomaps` · `Motor Imagery Decoding` · `EEGNet` · `MNE-Python` · `MATLAB`
+`EEG` · `ICA / Artifact Removal (EOG, EMG)` · `ERD/ERS Topomaps` · `Motor Imagery Decoding` · `MNE-Python` · `MATLAB`
 
 ## 🤖 Data / AI / ML
 
-`Deep Learning` · `State Space Models (Mamba)` · `CNNs` · `PyTorch` · `TensorFlow / Keras` · `Classification & Clustering (KMeans, PCA)` · `Scoring & Segmentation` · `Multivariate Analysis`
+`Deep Learning` · `CNNs` · `PyTorch` · `TensorFlow / Keras` · `Classification & Clustering (KMeans, PCA)` · `Scoring & Segmentation` · `Multivariate Analysis`
 
 ## 🛠️ Stack
 
