@@ -2,21 +2,19 @@
 
 ## About Me
 
-I'm an engineering student at École Centrale de Nantes, currently on a gap-year research internship. My work sits at the intersection of signal processing, deep learning, and brain-computer interfaces — decoding EEG signals into motor intent, and applying deep architectures to medical imaging.
+I'm an engineering student at École Centrale de Nantes, currently on a gap-year research internship focused on applied machine learning and deep learning. I work on building and fine-tuning deep architectures for classification and detection tasks, with a strong interest in model interpretability and performance optimization at the GPU level.
 
-I'm currently a BCI Research Intern at ICONIC Lab, CHU de Nantes, building EEG-based brain-computer interfaces for real-time robotic hand control at the individual finger level, with an interactive ICA pipeline for ocular and muscular artifact removal. I also work on Bi-Mamba, a state space model architecture for multi-pathology detection on chest X-rays, involving GPU fine-tuning, CUDA kernel optimization, and biomarker interpretability.
+My current research applies Bi-Mamba, a state space model architecture, to multi-pathology detection on chest X-rays — covering model design, GPU fine-tuning, CUDA kernel optimization, and biomarker interpretability. I also work on deep learning pipelines for biosignal classification (EEGNet-based models for brain-computer interfaces), which has given me a solid grounding in preprocessing, feature extraction, and training models on noisy real-world data.
 
-I'm always exploring signal-to-image approaches for time-series and biosignal classification, and I enjoy turning research-heavy problems into clear, practical implementations.
+I enjoy turning research-heavy problems into clear, practical implementations, and I'm always looking to deepen my ML/AI toolkit across architectures, frameworks, and application domains.
 
 ## Tech Stack
 
 **Languages:** Python · MATLAB · C++ · SQL · R
 
-**Signal Processing / BCI:** EEG · ICA (EOG/EMG artifact removal) · ERD/ERS topomaps · motor imagery decoding · MNE-Python
+**ML / DL:** PyTorch · TensorFlow · Keras · Scikit-learn · CNNs · State Space Models (Mamba) · CUDA
 
-**ML / DL:** PyTorch · TensorFlow · Keras · Scikit-learn · NumPy · SciPy
-
-**Data:** PostgreSQL · Pandas · Matplotlib
+**Data:** NumPy · SciPy · Pandas · PostgreSQL · Matplotlib
 
 **Tools:** Git · VS Code · Google Colab
 
