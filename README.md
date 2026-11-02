@@ -24,7 +24,7 @@ Curiosity drives much of my work: I really enjoy reading research articles, digg
 
 ## Background
 
-École Centrale de Nantes (2024–2027). Previously CPGE TSI at Lycée Mohammed Réda Slaoui, Agadir — ranked 18th/605 at Concours Centrale-Supélec.
+École Centrale de Nantes (2024–2028) including a gap year. Previously CPGE TSI at Lycée Mohammed Réda Slaoui, Agadir — ranked 18th/605 at Concours Centrale-Supélec and 5th in the CNC TSI.
 
 ## Find Me
 
