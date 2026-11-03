@@ -4,7 +4,7 @@
 
 I'm an engineering student at Centrale Nantes, currently on a gap-year research internship focused on applied machine learning and deep learning. I work on building and fine-tuning deep architectures for classification and detection tasks, with a strong interest in model interpretability and performance optimization.
 
-Curiosity drives much of my work: I really enjoy reading research articles, digging into new ideas, and taking the time to understand the notation behind them.
+Curiosity drives much of my work: I really enjoy reading research articles, digging into new ideas, and taking the time to understand the ideas/notations behind them.
 
 ## Tech Stack
 
